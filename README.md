@@ -4,7 +4,7 @@
 ___
 ***Please do homework on your own and look in this repository only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
 ___
-***Currently, I am looking for a job, so links fixex (i took a structure of repo from already existing one), quizes and most valuable thing - question lists for every course, so you can practice later by going through it, will be uploaded here later. ***
+***Currently, I am looking for a job, so links fixex (i took a structure of repo from already existing one), quizes and most valuable thing - question lists for every course, so you can practice later by going through it, will be uploaded here later.***
 ___
 
 
