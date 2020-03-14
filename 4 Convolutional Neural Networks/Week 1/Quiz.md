@@ -1,8 +1,6 @@
 ## Quiz
 
 1. What do you think applying this filter to a grayscale image will do?
-
-
      _             _   
     |  0  1  -1  0  | 
     |  1  3  -3 -1  | 
@@ -15,11 +13,11 @@
 
 2. Suppose your input is a 300 by 300 color (RGB) image, and you are not using a convolutional network. If the first hidden layer has 100 neurons, each one fully connected to the input, how many parameters does this hidden layer have (including the bias parameters)?
 
-- (300x300x3+1)*100 = 27,000,100
+- (300x300x3+1) * 100 = 27,000,100
 
 3. Suppose your input is a 300 by 300 color (RGB) image, and you use a convolutional layer with 100 filters that are each 5x5. How many parameters does this hidden layer have (including the bias parameters)?
 
-- (5x5x3+1)*100 = 7600
+- (5x5x3+1) * 100 = 7600
 
 4. You have an input volume that is 63x63x16, and convolve it with 32 filters that are each 7x7, using a stride of 2 and no padding. What is the output volume?
 
