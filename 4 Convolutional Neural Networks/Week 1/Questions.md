@@ -21,7 +21,7 @@
 ![CNN](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Week%201/images/606B6069-8235-4DD6-990A-F83DA218AB05.png)
 ![CNN](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Week%201/images/A80419E1-7DA7-4EE5-9909-22C2A7DCCB86.png)
 
-**From quiz**
+**More from quiz**
 1. What do you think applying this filter to a grayscale image will do?
 
 | 0 | 1 | -1 | 0  |
