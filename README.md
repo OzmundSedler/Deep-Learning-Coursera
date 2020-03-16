@@ -14,7 +14,9 @@ ___
 2. Week2 - [Neural Networks Basics](https://github.com/enggen/Deep-Learning-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 3. Week3 - [Shallow neural networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 4. Week4 - [Deep Neural Networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning)
-5. [Certificate](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/Coursera%20S7SGGYC4V3S7.pdf)
+5. [Questions]()
+6. [Quiz 1]()
+7. [Certificate](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/Coursera%20S7SGGYC4V3S7.pdf)
 
 ___
 
