@@ -1,6 +1,6 @@
 ## Questions
 
-**Deep convolutional models**
+**Object detection**
 
 1. What are localization and detection?
 2. What are Net outputs for simple classification with localization (3 classes for example)?
