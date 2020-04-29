@@ -1,6 +1,6 @@
 ## Questions
 
-## Neural Networks and Deep Learning**
+## **Shallow neural networks**
 
 1. What input/hidden/output layers of NN are ?
 2. Describe the math of single Neuron.
