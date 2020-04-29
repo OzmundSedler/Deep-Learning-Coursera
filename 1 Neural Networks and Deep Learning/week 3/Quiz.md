@@ -37,7 +37,7 @@ What will be B.shape? (If you’re not sure, feel free to run this in python to 
 
 - False
 
-8. **You have built a network using the tanh activation for all the hidden units. You initialize the weights to relative large values, using np.random.randn(..,..)*1000. What will happen?**
+8. **You have built a network using the tanh activation for all the hidden units. You initialize the weights to relative large values, using np.random.randn(..,..)1000. What will happen?**
 
 - This will cause the inputs of the tanh to also be very large, thus causing gradients to be close to zero. The optimization algorithm will thus become slow.
 
