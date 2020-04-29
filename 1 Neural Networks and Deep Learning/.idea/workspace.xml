@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6479954-ecae-4b32-b2b8-da4d40534976" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep+Neural+Network+-+Application+v8.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Planar_data_classification_with_onehidden_layer_v6c.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Basics_With_Numpy_v3a.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="a7726d79-74cb-4bd8-b949-bf73184f722c" />
+  <component name="ProjectId" id="1bAxDankBSTKXSVSgMoHcyfqFhD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week 1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week 1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6479954-ecae-4b32-b2b8-da4d40534976" name="Default Changelist" comment="" />
+      <created>1588088580853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588088580853</updated>
+      <workItem from="1588088583520" duration="2949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
