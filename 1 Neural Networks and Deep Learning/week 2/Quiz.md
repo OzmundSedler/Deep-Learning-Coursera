@@ -44,8 +44,8 @@ What is the shape of c?
 - c.shape = (12288, 45)
 
 8.**Consider the following code snippet:**
-# a.shape = (3,4)
-# b.shape = (4,1)
+a.shape = (3,4)
+b.shape = (4,1)
 for i in range(3):
   for j in range(4):
     c[i][j] = a[i][j] + b[j]
