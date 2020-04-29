@@ -8,7 +8,7 @@
 4. Why do you need non-linear activation function?
 5.  Pros and Cons of sigmoid, tanh, ReLU, Leaky ReLU
 6. Backpropogation simple explanation
-[https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%203/images/AC78FD38-C896-4654-B6FA-B4520BE8797C.png]
+![ex](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%203/images/AC78FD38-C896-4654-B6FA-B4520BE8797C.png)
 7. Why do you need random initialization in NN?
 
 
