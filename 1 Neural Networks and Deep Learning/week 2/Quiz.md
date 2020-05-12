@@ -43,13 +43,13 @@ What is the shape of c?
 
 - c.shape = (12288, 45)
 
-8.**Consider the following code snippet:**
-# a.shape = (3,4)
-# b.shape = (4,1)
+8. **Consider the following code snippet:**
+a.shape = (3,4)
+b.shape = (4,1)
 for i in range(3):
   for j in range(4):
     c[i][j] = a[i][j] + b[j]
-**How do you vectorize this?**
+How do you vectorize this?
 
 - c = a + b.T
 
@@ -57,7 +57,7 @@ for i in range(3):
 a = np.random.randn(3, 3)
 b = np.random.randn(3, 1)
 c = a*b
-**What will be c? (If you’re not sure, feel free to run this in python to find out).**
+What will be c? (If you’re not sure, feel free to run this in python to find out).
 
 - This will invoke broadcasting, so b is copied three times to become (3,3), and ∗ is an element-wise product so c.shape will be (3, 3)
 
