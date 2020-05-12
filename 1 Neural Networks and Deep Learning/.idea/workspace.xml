@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6479954-ecae-4b32-b2b8-da4d40534976" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep+Neural+Network+-+Application+v8.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Planar_data_classification_with_onehidden_layer_v6c.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basics_With_Numpy_v3a.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/Gradient+Checking+v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/Initialization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/Optimization_methods_v1b.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/Regularization_v2a.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/TensorFlow_Tutorial_v3b.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/1Dgrad_kiank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/NDgrad_kiank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/cost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/dictionary_to_vector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/dropout1_kiank.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/dropout2_kiank.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/field_kiank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/hands.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/kiank_minibatch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/kiank_partition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/kiank_sgd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/kiank_shuffle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/onehot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/opt_momentum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/images/thumbs_up.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588088580853</updated>
       <workItem from="1588088583520" duration="2949000" />
+      <workItem from="1588964826351" duration="509000" />
     </task>
     <servers />
   </component>

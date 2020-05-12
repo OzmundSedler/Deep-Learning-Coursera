@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea50d672-ca42-46cb-b0d0-398e8bd89b4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../1 Neural Networks and Deep Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1 Neural Networks and Deep Learning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradient+Checking+v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Initialization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optimization_methods_v1b.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regularization_v2a.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow_Tutorial_v3b.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1Dgrad_kiank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/NDgrad_kiank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dictionary_to_vector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dropout1_kiank.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dropout2_kiank.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/field_kiank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hands.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kiank_minibatch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kiank_partition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kiank_sgd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kiank_shuffle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/onehot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/opt_momentum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs_up.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="a7726d79-74cb-4bd8-b949-bf73184f722c" />
+  <component name="ProjectId" id="1bdbRWdDobHn1sh6PG7cNoEuXGL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea50d672-ca42-46cb-b0d0-398e8bd89b4b" name="Default Changelist" comment="" />
+      <created>1588964909215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588964909215</updated>
+      <workItem from="1588964910583" duration="1640000" />
+      <workItem from="1589259613861" duration="1830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
