@@ -5,7 +5,7 @@
 1. Train/test/dev sets. How will you split 10k dataset. 1m dataset?
 2. Explain bias/Variance tradeoff.
 3. Types of regularization. NN example. Why regularization reduces overfitting?
-[image]
+![reg](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/images/Screenshot%202020-05-08%20at%2022.14.42.png)
 4. Explain dropout regularization. What is the principle behind it. Why does it works?
 5. What is data augmentation and how it is used?
 6. What is early stopping and how it is used?
@@ -13,8 +13,8 @@
 8. Explain vanishing/exploding gradients problem.
 9. How you need to initialize weights in Deep NN? What types of initialization do you know?
 10. Gradient checking
-[image]
-[image]
+![GD1](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/images/Screenshot%202020-05-08%20at%2022.26.29.png)
+![GD2](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/images/Screenshot%202020-05-08%20at%2022.27.07.png)
 
 
 ## Questions from quiz
