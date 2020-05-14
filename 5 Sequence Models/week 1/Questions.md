@@ -35,11 +35,11 @@ This specific type of architecture is appropriate when Tx ... (=,>,<) Ty.
 ![q3](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%201/Building%20a%20RNN/images/Screenshot%202020-05-14%20at%2007.49.53.png)
 5. You have finished training a language model RNN and are using it to sample random sentences, as follows:
 What are you doing at each time step tt? How are output and the input of the next step are connected?
-![q4]
+![q4](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%201/Building%20a%20RNN/images/Screenshot%202020-05-14%20at%2008.08.34.png)
 6. You are training an RNN, and find that your weights and activations are all taking on the value of NaN (“Not a Number”). What is the cause of this problem (most likely)?
 7. Suppose you are training a LSTM. You have a 10000 word vocabulary, and are using an LSTM with 100-dimensional activations a^{<t>}. What is the dimension of Γu at each time step?
 8. Here’re the update equations for the GRU. Alice proposes to simplify the GRU by always removing the \Gamma_uΓ I.e., setting \Gamma_uΓ = 1. Betty proposes to simplify the GRU by removing the \Gamma_rΓ I. e., setting \Gamma_rΓ  = 1 always. Which of these models is more likely to work without vanishing gradient problems even when trained on very long input sequences?
-![q5]
+![q5](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%201/Building%20a%20RNN/images/Screenshot%202020-05-14%20at%2008.10.44.png)
 9. Here are the equations for the GRU and the LSTM: From these, we can see that the Update Gate and Forget Gate in the LSTM play a role similar to _______ and ______ in the GRU. What should go in the the blanks?
 ![q6](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%201/Building%20a%20RNN/images/Screenshot%202020-05-14%20at%2007.57.34.png)
 10. You have a pet dog whose mood is heavily dependent on the current and past few days’ weather. You’ve collected data for the past 365 days on the weather, which you represent as a sequence as x^{<1>}, …, x^{<365>}x. You’ve also collected data on your dog’s mood, which you represent as y^{<1>}, …, y^{<365>}y. You’d like to build a model to map from x \rightarrow yx→y. Should you use a Unidirectional RNN or Bidirectional RNN for this problem?
