@@ -8,16 +8,17 @@
 4. Cosine similarity. Formula. Where it can be applied?
 5. Bag of words algorithm
 6. A neural probabilistic language model 
-![image]() 
-![image2]()
+![image](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.48.53.png) 
+![image2](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.49.31.png)
 7. What is skip-gram model?
 8. Word2Vec algorithm. 
 9. Intuition behind negative sampling
-![image3]()
+![image3](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.52.28.png)
 10. GloVe word vectors 
-![GloVe]() 
-![GloVe2]()
+![GloVe](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.54.02.png) 
+![GloVe2](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.54.06.png)
 11. Give an example of sentiment classification model and how it can be applied.
+![img](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.55.03.png)
 
 **More from the quiz**
 
