@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a3e1364-03fb-41c1-857e-30bf404eae4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/Emojify_v2a.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/data/emojify_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/data/tes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/data/tess.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/data/tesss.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/data/test_emoji.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/data/testing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/data/train_emoji.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/emo_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/Screenshot 2020-05-15 at 07.48.53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/Screenshot 2020-05-15 at 07.49.31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/Screenshot 2020-05-15 at 07.52.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/Screenshot 2020-05-15 at 07.54.02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/Screenshot 2020-05-15 at 07.54.06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/Screenshot 2020-05-15 at 07.55.03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/data_set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/dataset_kiank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/emb_kiank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/embedding1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/emo_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/emojifier-v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/emojifierv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/emojify_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/emojiss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Emojify/images/woebot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Quiz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/Operations_on_word_vectors_v2a.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/data/input-Copy1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/data/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/images/1-hot-vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/images/cosine_sim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/images/equalize10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/images/lookup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/images/neutral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/images/neutralize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/images/neutralize_kiank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Word Vector Representation/w2v_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +51,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JupyterTrust" id="a7726d79-74cb-4bd8-b949-bf73184f722c" />
   <component name="ProjectId" id="1bpyhFlLOSb7T62pY2Ik4JiB7I0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,7 +62,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week 2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week 2" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589343447067</updated>
       <workItem from="1589343450273" duration="2421000" />
-      <workItem from="1589431288795" duration="917000" />
+      <workItem from="1589431288795" duration="1467000" />
+      <workItem from="1589517695004" duration="1635000" />
     </task>
     <servers />
   </component>
