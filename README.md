@@ -62,7 +62,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 - [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
 3. Week 3 - [Object detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%203)
 
-**Papers to read:**
+3.1 **Papers to read:**
 - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 - [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
 4. Week4 - [Special applications: Face recognition & Neural style transfer](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%204)
