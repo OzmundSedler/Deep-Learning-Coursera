@@ -9,7 +9,7 @@
 6. [Course 5 - Sequence Models]()
 
 ___
-***Please do homework on your own and look in this repository only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
+***Please do homework on your own and look in this repository course materials only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
 ___
 
  ## [Neural Networks and Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning)
@@ -18,10 +18,10 @@ ___
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning)
 
 ### Course materials
-1. Week1 - [Introduction to deep learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%201)
-2. Week2 - [Neural Networks Basics](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%202)
-3. Week3 - [Shallow neural networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%203)
-4. Week4 - [Deep Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204)
+1. Week 1 - [Introduction to deep learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%201)
+2. Week 2 - [Neural Networks Basics](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%202)
+3. Week 3 - [Shallow neural networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%203)
+4. Week 4 - [Deep Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204)
 
 ___
 
@@ -31,9 +31,9 @@ ___
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Questions.md)
 
 ### Course materials
-1. Week1 - [Practical aspects of Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201)
-2. Week2 - [Optimization algorithms](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%202)
-3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%203)
+1. Week 1 - [Practical aspects of Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201)
+2. Week 2 - [Optimization algorithms](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%202)
+3. Week 3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%203)
 ___
 
 ## [Structuring Machine Learning Projects](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/3%20Structuring%20Machine%20Learning%20Projects)
@@ -42,8 +42,8 @@ ___
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/3%20Structuring%20Machine%20Learning%20Projects/Questions.md)
 
 ### Course materials
-1. Week1 - [Introduction to ML Strategy](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/3%20Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz.md)
-2. Week2 - [ML Strategy (2)](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/3%20Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz.md)
+1. Week 1 - [Introduction to ML Strategy](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/3%20Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz.md)
+2. Week 2 - [ML Strategy (2)](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/3%20Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz.md)
 
 ___
 
@@ -53,14 +53,14 @@ ___
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Questions.md)
  
 ### Course materials
-1. Week1 - [Foundations of Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%201)
-2. Week2 - [Deep convolutional models: case studies](hhttps://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%202)
+1. Week 1 - [Foundations of Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%201)
+2. Week 2 - [Deep convolutional models: case studies](hhttps://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%202)
 
 **Papers to read:**
 - [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
-3. [Week3 - Object detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%203)
+3. Week 3 - [Object detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%203)
 
 **Papers to read:**
 - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
