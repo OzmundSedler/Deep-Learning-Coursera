@@ -1,12 +1,12 @@
 # [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
 
 # Questions
-1. [Full specialization]()
-2. [Course 1 - Neural Networks and Deep Learning]
-3. [Course 2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]
-4. [Course 3 - Neural Networks and Deep Learning]
-5. [Course 4 - Neural Networks and Deep Learning]
-6. [Course 5 - Neural Networks and Deep Learning]
+1. [Questions to repeat all the specialization]()
+2. [Course 1 - Neural Networks and Deep Learning]()
+3. [Course 2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]()
+4. [Course 3 - Neural Networks and Deep Learning]()
+5. [Course 4 - Neural Networks and Deep Learning]()
+6. [Course 5 - Neural Networks and Deep Learning]()
 
 ___
 ***Please do homework on your own and look in this repository only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
@@ -59,15 +59,18 @@ ___
 ### Course materials
 1. Week1 - [Foundations of Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%201)
 2. Week2 - [Deep convolutional models: case studies](hhttps://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%202)
+
 **Papers to read:**
 - [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
 3. [Week3 - Object detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%203)
+
 **Papers to read:**
 - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 - [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
 4. Week4 - [Special applications: Face recognition & Neural style transfer](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%204)
+
 **Papers to read:**
 - [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 - [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
