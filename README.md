@@ -55,20 +55,15 @@ ___
 ### Course materials
 1. Week 1 - [Foundations of Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%201)
 2. Week 2 - [Deep convolutional models: case studies](hhttps://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%202)
-
-**Papers to read:**
-- [ImageNet Classification with Deep Convolutional
+    - [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+    - [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
 3. Week 3 - [Object detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%203)
-    **Papers to read:**
     - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
     - [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
 4. Week4 - [Special applications: Face recognition & Neural style transfer](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks/Week%204)
-
-**Papers to read:**
-- [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
-- [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+    - [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+    - [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
  
 ___
 
