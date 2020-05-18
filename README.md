@@ -4,15 +4,15 @@
 1. [Questions to repeat all the specialization]()
 2. [Course 1 - Neural Networks and Deep Learning]()
 3. [Course 2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]()
-4. [Course 3 - Neural Networks and Deep Learning]()
-5. [Course 4 - Neural Networks and Deep Learning]()
-6. [Course 5 - Neural Networks and Deep Learning]()
+4. [Course 3 - Structuring Machine Learning Projects]()
+5. [Course 4 - Convolutional Neural Networks]()
+6. [Course 5 - Sequence Models]()
 
 ___
 ***Please do homework on your own and look in this repository only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
 ___
 
- ## Course 1. [Neural Networks and Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning)
+ ## [Neural Networks and Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning)
 **The foundations of deep learning**
  
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning)
@@ -25,7 +25,7 @@ ___
 
 ___
 
-## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
+## [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 **This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results.**
 
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Questions.md)
@@ -36,7 +36,7 @@ ___
 3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%203)
 ___
 
-## Course 3. [Structuring Machine Learning Projects](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/3%20Structuring%20Machine%20Learning%20Projects)
+## [Structuring Machine Learning Projects](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/3%20Structuring%20Machine%20Learning%20Projects)
 **You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.**
 
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/3%20Structuring%20Machine%20Learning%20Projects/Questions.md)
@@ -47,7 +47,7 @@ ___
 
 ___
 
- ## Course 4. [Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks)
+ ## [Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/4%20Convolutional%20Neural%20Networks)
 **This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images.**
  
 ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Questions.md)
@@ -73,7 +73,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
  
 ___
 
- ## Course 5. [Sequence Models](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/5%20Sequence%20Models)
+ ## [Sequence Models](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/5%20Sequence%20Models)
  **This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others.**
  
  ### [Questions to repeat the course](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Questions.md)
