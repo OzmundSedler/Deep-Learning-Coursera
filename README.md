@@ -7,12 +7,23 @@
 4. [Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Questions.md)
 5. [Sequence Models](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/Questions.md)
 
-## Specialization projects
-1.
-2.
-3.
-4.
-5.
+## Specialization projects to repeat
+1. [Building_your_Deep_Neural_Network_Step_by_Step](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+2.[Deep Neural Network for Image Classification: Application](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+3. [Gradient Checking](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/Gradient%2BChecking%2Bv1.ipynb)
+4. [Various regularizations](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/Regularization_v2a.ipynb)
+5. [Optimization methods](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%202/Optimization_methods_v1b.ipynb)
+6. [Convolutional Neural Networks: Step by Step](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
+7. [Residual Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Week%202/ResNets/Residual_Networks_v2a.ipynb)
+8. [Autonomous driving - Car detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Week%203/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
+9. [Face Recognition](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
+10. [Deep Learning & Art: Neural Style Transfer](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Week%204/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+11. [Building your Recurrent Neural Network - Step by Step]()
+12. [Character level language model]()
+13. [Improvise a Jazz Solo with an LSTM Network]()
+14. [Emojifier](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/Emojify_v2a.ipynb)
+15. [Neural Machine Translation](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
+16. [Trigger Word Detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
 
 ___
 ***Please do homework on your own and look in this repository course materials only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
