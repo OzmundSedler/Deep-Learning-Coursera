@@ -43,3 +43,60 @@ What are you doing at each time step tt? How are output and the input of the nex
 9. Here are the equations for the GRU and the LSTM: From these, we can see that the Update Gate and Forget Gate in the LSTM play a role similar to _______ and ______ in the GRU. What should go in the the blanks?
 ![q6](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%201/Building%20a%20RNN/images/Screenshot%202020-05-14%20at%2007.57.34.png)
 10. You have a pet dog whose mood is heavily dependent on the current and past few days’ weather. You’ve collected data for the past 365 days on the weather, which you represent as a sequence as x^{<1>}, …, x^{<365>}x. You’ve also collected data on your dog’s mood, which you represent as y^{<1>}, …, y^{<365>}y. You’d like to build a model to map from x \rightarrow yx→y. Should you use a Unidirectional RNN or Bidirectional RNN for this problem?
+
+
+## **Natural Language Processing & Word Embeddings**
+
+1. What is word embeddings ?
+2. How transfer learning is connected to the word embeddings?
+3. What is finetuning?
+4. Cosine similarity. Formula. Where it can be applied?
+5. Bag of words algorithm
+6. A neural probabilistic language model 
+![image](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.48.53.png) 
+![image2](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.49.31.png)
+7. What is skip-gram model?
+8. Word2Vec algorithm. 
+9. Intuition behind negative sampling
+![image3](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.52.28.png)
+10. GloVe word vectors 
+![GloVe](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.54.02.png) 
+![GloVe2](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.54.06.png)
+11. Give an example of sentiment classification model and how it can be applied.
+![img](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/images/Screenshot%202020-05-15%20at%2007.55.03.png)
+
+**More from the quiz**
+
+12. Suppose you learn a word embedding for a vocabulary of 10000 words. Then the embedding vectors should be 10000 dimensional, so as to capture the full range of variation and meaning in those words. True/False?
+13. Suppose you download a pre-trained word embedding which has been trained on a huge corpus of text. You then use this word embedding to train an RNN for a language task of recognizing if someone is happy from a short snippet of text, using a small training set.
+    Then if the word “ecstatic” does not appear in your small training set, how your RNN will recognize “I’m ecstatic” and what label it will probably assign to it? Why?
+14. Give an example of equations you think should hold for a good word embedding. (e_{boy} - e_{girl} ≈ e_{brother} - e_{sister})
+15. When learning word embeddings, we create an artificial task of estimating P(target \mid context)P(target∣context). It is okay if we do poorly on this artificial prediction task; the more important by-product of this task is that we learn a useful set of word embeddings. True/False?
+16. In the word2vec algorithm, you estimate P(t∣c), where tt is the target word and cc is a context word. How are tt and cc chosen from the training set? 
+
+
+## **Sequence models & Attention mechanism**
+
+1. Sequence to sequence model. Encoding and decoding. 
+2. How the translation is picked? Why using a conditional language model instead of a greedy?
+3. Explain beam search algorithm. What beam width means? 
+4. How error analysis on beam search is conducted? Give an example.
+5. What is Bleu Score? Pros and Cons of it?
+6. Attention model intuition. The problem of long sentences. General mechanism of work.
+![image](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/images/Screenshot%202020-05-19%20at%2008.04.34.png)
+7. Explain how attention model works in general. How attention is computed?
+![img1](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/images/Screenshot%202020-05-19%20at%2008.07.29.png)
+![img2](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/images/Screenshot%202020-05-19%20at%2008.07.53.png)
+8. Speech recognition basics.  How audio to transcript can be implemented?
+![img3](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/images/Screenshot%202020-05-20%20at%2008.04.14.png)
+9. Trigger word detection algorithm.
+![img4](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/images/Screenshot%202020-05-20%20at%2008.05.24.png)
+
+
+**More from the quiz**
+
+10. In beam search, if you increase the beam width BB, how speed, memory usage and quality of the solution will change?
+11. What will happen, if we will carry out beam search without using sentence normalization?
+12. Under the CTC model, identical repeated characters not separated by the “blank” character (_) are collapsed. Under the CTC model, what does the following string collapse to?
+__c_oo_o_kk___b_ooooo__oo__kkk 
+
