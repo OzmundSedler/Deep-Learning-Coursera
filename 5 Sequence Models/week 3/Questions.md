@@ -17,6 +17,7 @@
 9. Trigger word detection algorithm.
 ![img4](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/images/Screenshot%202020-05-20%20at%2008.05.24.png)
 
+
 **More from the quiz**
 10. In beam search, if you increase the beam width BB, how speed, memory usage and quality of the solution will change?
 11. What will happen, if we will carry out beam search without using sentence normalization?
