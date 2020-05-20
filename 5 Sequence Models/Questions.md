@@ -1,6 +1,4 @@
-# Questions
-
-## **Recurrent Neural Networks**
+## Week 1 - Recurrent Neural Networks
 
 1. What is sequence models? Give the examples of the sequence data.
 2. Explain recurrent Neural Network model. Draw simple scheme.
@@ -45,7 +43,7 @@ What are you doing at each time step tt? How are output and the input of the nex
 10. You have a pet dog whose mood is heavily dependent on the current and past few days’ weather. You’ve collected data for the past 365 days on the weather, which you represent as a sequence as x^{<1>}, …, x^{<365>}x. You’ve also collected data on your dog’s mood, which you represent as y^{<1>}, …, y^{<365>}y. You’d like to build a model to map from x \rightarrow yx→y. Should you use a Unidirectional RNN or Bidirectional RNN for this problem?
 
 
-## **Natural Language Processing & Word Embeddings**
+## Week 2 - Natural Language Processing & Word Embeddings
 
 1. What is word embeddings ?
 2. How transfer learning is connected to the word embeddings?
@@ -75,7 +73,7 @@ What are you doing at each time step tt? How are output and the input of the nex
 16. In the word2vec algorithm, you estimate P(t∣c), where tt is the target word and cc is a context word. How are tt and cc chosen from the training set? 
 
 
-## **Sequence models & Attention mechanism**
+## Week 3 - Sequence models & Attention mechanism
 
 1. Sequence to sequence model. Encoding and decoding. 
 2. How the translation is picked? Why using a conditional language model instead of a greedy?
