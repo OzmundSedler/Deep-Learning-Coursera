@@ -1,6 +1,6 @@
-## Questions
+# Questions
 
-**Recurrent Neural Networks**
+## **Recurrent Neural Networks**
 
 1. What is sequence models? Give the examples of the sequence data.
 2. Explain recurrent Neural Network model. Draw simple scheme.
