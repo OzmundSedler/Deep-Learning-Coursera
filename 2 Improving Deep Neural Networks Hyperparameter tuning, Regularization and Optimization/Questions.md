@@ -66,7 +66,7 @@
 5. Softmax regression. Softmax layer. The math behind it.
 ![Softmax](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%203/images/Screenshot%202020-05-12%20at%2008.33.47.png)
 
-## Questions from the quiz
+**Questions from quiz**
 
 6. If searching among a large number of hyperparameters, you should try values in a grid rather than random values, so that you can carry out the search more systematically and not rely on chance. True or False?
 7. Every hyperparameter, if set poorly, can have a huge negative impact on training, and so all hyperparameters are about equally important to tune well. True or False?
