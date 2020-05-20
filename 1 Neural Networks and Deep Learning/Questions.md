@@ -1,6 +1,4 @@
-## Course questions
-
-### Week 3 - Shallow neural networks
+## Week 3 - Shallow neural networks
 
 1. What input/hidden/output layers of NN are ?
 2. Describe the math of single Neuron.
@@ -18,7 +16,7 @@
 10. You have built a network using the tanh activation for all the hidden units. You initialize the weights to relative large values, using np.random.randn(..,..)*1000. What will happen?
 
 
-### Week 4 - Shallow neural networks
+## Week 4 - Neural Networks and Deep Learning
 
 1. How many layers does this network have?
 ![layers](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204/images/8E001A70-3705-420B-B3FC-CEE7D542D13D.png)
