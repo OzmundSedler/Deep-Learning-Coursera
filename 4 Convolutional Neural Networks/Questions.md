@@ -1,5 +1,3 @@
-# Course questions
-
 ## Week 1 - Basics of ConvNets
 
 1. What is Computer Vision in general?
