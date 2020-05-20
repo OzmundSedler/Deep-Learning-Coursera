@@ -9,7 +9,7 @@
 
 ## Specialization projects to repeat
 1. [Building_your_Deep_Neural_Network_Step_by_Step](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-2.[Deep Neural Network for Image Classification: Application](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+2. [Deep Neural Network for Image Classification: Application](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 3. [Gradient Checking](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/Gradient%2BChecking%2Bv1.ipynb)
 4. [Various regularizations](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/Regularization_v2a.ipynb)
 5. [Optimization methods](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%202/Optimization_methods_v1b.ipynb)
