@@ -1,12 +1,11 @@
 # [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
 
-# Questions
-1. [Questions to repeat the specialization]()
-2. [Course 1 - Neural Networks and Deep Learning]()
-3. [Course 2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]()
-4. [Course 3 - Structuring Machine Learning Projects]()
-5. [Course 4 - Convolutional Neural Networks]()
-6. [Course 5 - Sequence Models]()
+# Questions to repeat courses
+1. [Neural Networks and Deep Learning]()
+2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]()
+3. [Structuring Machine Learning Projects]()
+4. [Convolutional Neural Networks]()
+5. [Sequence Models]()
 
 ___
 ***Please do homework on your own and look in this repository course materials only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
