@@ -1,11 +1,11 @@
 # [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ## Questions to repeat courses
-1. [Neural Networks and Deep Learning]()
-2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]()
-3. [Structuring Machine Learning Projects]()
-4. [Convolutional Neural Networks]()
-5. [Sequence Models]()
+1. [Neural Networks and Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/Questions.md)
+2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Questions.md)
+3. [Structuring Machine Learning Projects](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/3%20Structuring%20Machine%20Learning%20Projects/Questions.md)
+4. [Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Questions.md)
+5. [Sequence Models](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/Questions.md)
 
 ___
 ***Please do homework on your own and look in this repository course materials only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
