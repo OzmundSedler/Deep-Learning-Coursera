@@ -1,6 +1,6 @@
-## Course questions
+# Course questions
 
-### Week 1 - Basics of ConvNets
+## Week 1 - Basics of ConvNets
 
 1. What is Computer Vision in general?
 2. What is elementary filter to detect vertical/horizontal edges? Write an example.
@@ -36,7 +36,7 @@
 6. You have an input volume that is 63x63x16, and convolve it with 32 filters that are each 7x7, and stride of 1. You want to use a “same” convolution. What is the padding?
 7. You have an input volume that is 32x32x16, and apply max pooling with a stride of 2 and a filter size of 2. What is the output volume?
 
-### Week 2 - Deep convolutional models
+## Week 2 - Deep convolutional models
 
 1. Residual NN. What is it? What is the idea behind it?  
 2. ResNet block - Describe it, write the activation function. Explain.
@@ -47,7 +47,7 @@
 7. What changes in nH, nW and nC do you typically see as you move to deeper layers in a ConvNet?
 8. What is the typical order of blocks in a ConvNet?
 
-### Week 3 - Object detection
+## Week 3 - Object detection
 
 1. What are localization and detection?
 2. What are Net outputs for simple classification with localization (3 classes for example)?
@@ -63,7 +63,7 @@
 12. In the YOLO algorithm, at training time, only one cell ---the one containing the center/midpoint of an object--- is responsible for detecting this object. Is it True?
 13. Suppose you are using YOLO on a 19x19 grid, on a detection problem with 20 classes, and with 5 anchor boxes. During training, for each image you will need to construct an output volume y as the target value for the neural network; this corresponds to the last layer of the neural network. (y may include some “?”, or “don’t cares”). What is the dimension of this output volume?
 
-### Week 4 - Face recognition & Neural style transfer
+## Week 4 - Face recognition & Neural style transfer
 
 1. What is Face recognition?
 2. What is One Shot Learning? 
