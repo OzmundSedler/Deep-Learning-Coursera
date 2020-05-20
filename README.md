@@ -7,6 +7,13 @@
 4. [Convolutional Neural Networks](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/4%20Convolutional%20Neural%20Networks/Questions.md)
 5. [Sequence Models](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/Questions.md)
 
+## Specialization projects
+1.
+2.
+3.
+4.
+5.
+
 ___
 ***Please do homework on your own and look in this repository course materials only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
 ___
