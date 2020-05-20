@@ -19,6 +19,7 @@
 
 
 **More from the quiz**
+
 10. In beam search, if you increase the beam width BB, how speed, memory usage and quality of the solution will change?
 11. What will happen, if we will carry out beam search without using sentence normalization?
 12. Under the CTC model, identical repeated characters not separated by the “blank” character (_) are collapsed. Under the CTC model, what does the following string collapse to?
