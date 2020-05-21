@@ -28,6 +28,8 @@ ___
 15. [Neural Machine Translation](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
 16. [Trigger Word Detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
 
+# Course materials 
+
  ## [Neural Networks and Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning)
 **The foundations of deep learning**
  
