@@ -1,4 +1,7 @@
 # [Deep Learning Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
+___
+***Please do homework on your own and look in this repository course materials only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
+___
 
 ## Questions to repeat courses
 1. [Neural Networks and Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/1%20Neural%20Networks%20and%20Deep%20Learning/Questions.md)
@@ -24,10 +27,6 @@
 14. [Emojifier](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%202/Emojify/Emojify_v2a.ipynb)
 15. [Neural Machine Translation](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
 16. [Trigger Word Detection](https://github.com/OzmundSedler/Deep-Learning-Coursera/blob/master/5%20Sequence%20Models/week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
-
-___
-***Please do homework on your own and look in this repository course materials only when you've already done the assignments. Anyway, it is in your interest if you want to learn something.***
-___
 
  ## [Neural Networks and Deep Learning](https://github.com/OzmundSedler/Deep-Learning-Coursera/tree/master/1%20Neural%20Networks%20and%20Deep%20Learning)
 **The foundations of deep learning**
