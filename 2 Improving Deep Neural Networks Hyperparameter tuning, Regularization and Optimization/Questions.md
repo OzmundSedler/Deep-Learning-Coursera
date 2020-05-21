@@ -16,6 +16,7 @@
 
 
 **Questions from quiz**
+
 11. If your Neural Network model seems to have high bias, what will you try?
 12. You are working on an automated check-out kiosk for a supermarket, and are building a classifier for apples, bananas and oranges. Suppose your classifier obtains a training set error of 0.5%, and a dev set error of 7%. What will you try to improve your classifier?
 13. What is weight decay?
